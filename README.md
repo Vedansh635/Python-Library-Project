@@ -4,9 +4,9 @@
 This repository contains a simple implementation of a Library Management System in Python. The system allows users to add books to the library, view the library's contents, and check the number of books in the library.
 
 # Features
-- Book Addition: Users can add one or multiple books to the library using the `appendb` method.
--Library Viewing: Users can view the library's contents using the `getlib` method.
--Book Count: Users can check the number of books in the library using the `numberofbooks` method.
+- Book Addition: Users can add one or multiple books to the library using the `appendb` method.<br>
+-Library Viewing: Users can view the library's contents using the `getlib` method.<br>
+-Book Count: Users can check the number of books in the library using the `numberofbooks` method.<br>
 
 # How to Use
 1. Create an instance of the `Library` class.
