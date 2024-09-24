@@ -21,4 +21,5 @@ The `Library` class has three methods:
 `appendb`: Adds one or multiple books to the library and updates the number of books.<br>
 `getlib`: Prints the library's contents.<br>
 `numberofbooks`: Prints the number of books in the library.<br>
-Feel free to modify or extend this code to suit your needs!
+
+# Feel free to modify or extend this code to suit your needs!
