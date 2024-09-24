@@ -17,8 +17,8 @@ This repository contains a simple implementation of a Library Management System 
 # Code Explanation
 The `Library` class has three methods:
 
-`__init__`: Initializes the library with an empty list of books and sets the number of books to 0.
-`appendb`: Adds one or multiple books to the library and updates the number of books.
-`getlib`: Prints the library's contents.
+`__init__`: Initializes the library with an empty list of books and sets the number of books to 0.<br>
+`appendb`: Adds one or multiple books to the library and updates the number of books.<br>
+`getlib`: Prints the library's contents.<br>
 `numberofbooks`: Prints the number of books in the library.<br>
 Feel free to modify or extend this code to suit your needs!
